@@ -9,15 +9,7 @@ module.exports = {
   makers: [
     {
       name: '@electron-forge/maker-squirrel',
-      config: {
-        name: 'GitWise',
-        setupName: 'GitWise',
-        authors: 'Antony Pineda',
-        description: 'Git Client',
-        exe: 'GitWise.exe',
-        setupIcon: './assets/git.png',
-        noMsi: true,
-      },
+      config: {},
     },
     {
       name: '@electron-forge/maker-zip',
