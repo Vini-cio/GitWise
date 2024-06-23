@@ -2,7 +2,7 @@
   "name": "gitwise",
   "version": "1.0.0",
   "description": "Git Client",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
