@@ -2,7 +2,7 @@
   "name": "gitwise",
   "version": "1.0.0",
   "description": "Git Client",
-  "main": "main.js",
+  "main": "./app/main.js",
   "scripts": {
     "start": "electron-forge start",
     "package": "electron-forge package",
